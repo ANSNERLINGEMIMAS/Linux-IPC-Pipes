@@ -129,7 +129,8 @@ void client() {
 
 ## OUTPUT
 
-file:///home/administrator/Pictures/Screenshots/Screenshot%20from%202025-10-15%2015-51-20.png
+<img width="491" height="183" alt="Screenshot from 2025-10-15 15-51-20" src="https://github.com/user-attachments/assets/692bb560-3339-48e7-938d-1d81e9d989d4" />
+
 
 # RESULT:
 The program is executed successfully.
